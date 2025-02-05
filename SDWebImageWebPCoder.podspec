@@ -31,6 +31,6 @@ This is a SDWebImage coder plugin to support WebP image.
   }
   s.framework = 'CoreGraphics'
   s.dependency 'SDWebImage/Core', '~> 5.17'
-  s.dependency 'libwebp', '~> 1.0'
+  s.dependency 'libwebp', '~> 1.5.0'
   
 end
