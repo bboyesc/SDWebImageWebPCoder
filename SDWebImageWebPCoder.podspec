@@ -30,7 +30,7 @@ This is a SDWebImage coder plugin to support WebP image.
     'USER_HEADER_SEARCH_PATHS' => '$(PODS_ROOT)/libwebp/src'
   }
   s.framework = 'CoreGraphics'
-  s.dependency 'SDWebImage/Core', '~> 5.17'
+  s.dependency 'SDWebImage/Core', '~> 5.20'
   s.dependency 'libwebp', '~> 1.5.0'
   
 end
