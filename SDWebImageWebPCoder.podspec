@@ -31,6 +31,6 @@ This is a SDWebImage coder plugin to support WebP image.
   }
   s.framework = 'CoreGraphics'
   s.dependency 'SDWebImage/Core', '~> 5.19.0'
-  s.dependency 'libwebp', :git => 'https://github.com/webmproject/libwebp.git', :tag => 'v1.5.0'
+  s.dependency 'libwebp'
   
 end
